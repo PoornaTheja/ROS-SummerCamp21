@@ -40,8 +40,8 @@ But you have used `catkin_make` but the standard is to use `catkin build` This i
 
 so first
 ```bash
-$ rm -r build/*
-$ rm -r devel/*
+$ rm -r build/
+$ rm -r devel/
 ```
 
 Then Install catkin tools
